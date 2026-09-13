@@ -333,7 +333,7 @@ The project provides practical experience in Dart programming, API integration, 
 
 ## Author
 
-**Agpalo Sharmaine**
+**Agpalo Sharmaine S.**
 
 ## Academic Project
 
